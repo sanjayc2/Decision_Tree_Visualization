@@ -1,0 +1,2 @@
+This is a visualization of a decision tree and the associated decision boundary for the binary classifier. The tree visualizer uses graphviz and the decision boundary uses a function based on matplotlib's pyplot.
+The well-known make_moons dataset is used, and a decision tree model is trained on it (including hyperparamter tuning, validation etc.). The decision tree boundary is compared to that of a tree with default choices of parameters, which results in overfitting. 
